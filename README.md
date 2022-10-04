@@ -14,3 +14,13 @@ The output will be saved in `sample/data/` folder. The resulting mesh are watert
 ```
 python -m apps.trim
 ```
+
+## Citation
+```
+@inproceedings{aggarwal2022layered,
+  title={Layered-Garment Net: Generating Multiple Implicit Garment Layers from a Single Image},
+  author={Aggarwal, Alakh and Wang, Jikai and Hogue, Steven and Ni, Saifeng and Budagavi, Madhukar and Guo, Xiaohu},
+  booktitle={Proceedings of the Asian Conference on Computer Vision (ACCV)},
+  year={2022}
+}
+```
