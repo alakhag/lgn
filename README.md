@@ -1,6 +1,19 @@
 # Layered-Garment Net
 
-This repository contains a pytorch implementation (training and testing) of LGN
+This repository contains a pytorch implementation (training and testing) of
+> **Layered-Garment Net: Generating Multiple Implicit Garment Layers from a Single Image**
+>
+> Alakh Aggarwal, 
+> Jikai Wang, 
+> Steven Hogue, 
+> Saifeng Ni, 
+> Madhukar Budagavi,
+> Xiaohu Guo
+>
+> ACCV 2022
+>
+> [[Paper]](https://utdallas.box.com/s/g9n27jyegn19imge1jxnwahbcr70r3ji)
+> [[Website]](https://personal.utdallas.edu/~xguo/) 
 
 ## Demo
 This demo runs for sample dataset given in `sample/data/` folder. Refer the folder and source code to run on custom data.
