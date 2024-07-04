@@ -12,7 +12,7 @@ This repository contains a pytorch implementation (training and testing) of
 >
 > ACCV 2022
 >
-> [[Paper]](https://utdallas.box.com/s/g9n27jyegn19imge1jxnwahbcr70r3ji)
+> [[Paper]](https://personal.utdallas.edu/~xguo/ACCV2022.pdf)
 > [[Website]](https://personal.utdallas.edu/~xguo/) 
 
 ## Demo
