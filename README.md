@@ -1,6 +1,6 @@
 # Layered-Garment Net
 
-![](figs/lgn.jpg)
+![](lgn.jpg)
 
 This repository contains a pytorch implementation (training and testing) of
 > **Layered-Garment Net: Generating Multiple Implicit Garment Layers from a Single Image**
