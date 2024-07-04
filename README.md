@@ -1,5 +1,7 @@
 # Layered-Garment Net
 
+![](figs/lgn.jpg)
+
 This repository contains a pytorch implementation (training and testing) of
 > **Layered-Garment Net: Generating Multiple Implicit Garment Layers from a Single Image**
 >
@@ -13,7 +15,6 @@ This repository contains a pytorch implementation (training and testing) of
 > ACCV 2022
 >
 > [[Paper]](https://personal.utdallas.edu/~xguo/ACCV2022.pdf)
-> [[Website]](https://personal.utdallas.edu/~xguo/) 
 
 ## Demo
 This demo runs for sample dataset given in `sample/data/` folder. Refer the folder and source code to run on custom data.
