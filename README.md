@@ -18,7 +18,7 @@ This repository contains a pytorch implementation (training and testing) of
 
 ## Demo
 This demo runs for sample dataset given in `sample/data/` folder. Refer the folder and source code to run on custom data.
-1. Download trained model from [checkpoints](https://utdallas.box.com/s/1mqdty5cyxav8hqae7j8nvcicw4ossmi) and save in home folder of the project by name `checkpoints`.
+1. Download trained model from [checkpoints](https://utdallas.box.com/s/s5wm6uwh648xw0lq3f2wddng1gfa8lo8) and save in home folder of the project by name `checkpoints`.
 2. run the following script:
 ```
 python -m apps.update
